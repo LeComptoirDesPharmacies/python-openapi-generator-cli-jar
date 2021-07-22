@@ -1,0 +1,9 @@
+### Python template
+# Compiled class file
+*.pyc
+
+# Package Files #
+*.eggs
+*.egg
+*.egg-info
+*.whl
